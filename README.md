@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hello, I'm Sahilpreet Singh 👋
 
-<!--
-**spsk3110/spsk3110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I'm a Computer Programming student at Algonquin College, Ottawa. Passionate about programming, exploring mountains, capturing nature through photography, and diving into captivating books. I'm also interested in personal finance, technology, and STEM fields.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- Programming: Java, C++ and Python
+- Web Development: Javascript, HTML and CSS
+
+## Hobbies
+
+- Exploring mountains 🏞️
+- Nature photography 📸
+- Reading books 📚
+
+## Connect with Me
+
+Let's connect on social media:
+
+- Instagram: [@spsk1313](https://www.instagram.com/spsk_1313/)
+- LinkedIn: [Sahilpreet Singh](https://www.linkedin.com/in/sahilpreet-singh-a15702165/)
+
+
+
